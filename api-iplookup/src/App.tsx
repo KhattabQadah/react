@@ -49,7 +49,7 @@ export default function App() {
       setLoading(false);
     }
   };
-
+  sfasf
   useEffect(() => {
     handleLookup('');
     loadRecent();
